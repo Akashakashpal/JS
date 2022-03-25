@@ -1,0 +1,16 @@
+Hello, world!
+Code structure
+"use strict"
+Variables
+Data types
+alert, prompt, confirm
+Type Conversions
+Basic operators
+Functions
+Hoisting
+assignment1
+Comparisons
+Conditional branching: if, '?'
+Logical operators
+Loops: while and for
+The "switch" statement
